@@ -1,0 +1,48 @@
+import 'package:flutter/material.dart';
+
+class Keys {
+  static final nameKey1 = GlobalKey<FormState>();
+  static final nameKey2 = GlobalKey<FormState>();
+  static final nameKey3 = GlobalKey<FormState>();
+  static final nameKey4 = GlobalKey<FormState>();
+  static final nameKey5 = GlobalKey<FormState>();
+  static final nameKey6 = GlobalKey<FormState>();
+  static final nameKey7 = GlobalKey<FormState>();
+  static final surnameKey1 = GlobalKey<FormState>();
+  static final surnameKey2 = GlobalKey<FormState>();
+  static final surnameKey3 = GlobalKey<FormState>();
+  static final surnameKey4 = GlobalKey<FormState>();
+  static final surnameKey5 = GlobalKey<FormState>();
+  static final surnameKey6 = GlobalKey<FormState>();
+  static final surnameKey7 = GlobalKey<FormState>();
+  static final birthdayKey1 = GlobalKey<FormState>();
+  static final birthdayKey2 = GlobalKey<FormState>();
+  static final birthdayKey3 = GlobalKey<FormState>();
+  static final birthdayKey4 = GlobalKey<FormState>();
+  static final birthdayKey5 = GlobalKey<FormState>();
+  static final birthdayKey6 = GlobalKey<FormState>();
+  static final birthdayKey7 = GlobalKey<FormState>();
+  static final citizenshipKey1 = GlobalKey<FormState>();
+  static final citizenshipKey2 = GlobalKey<FormState>();
+  static final citizenshipKey3 = GlobalKey<FormState>();
+  static final citizenshipKey4 = GlobalKey<FormState>();
+  static final citizenshipKey5 = GlobalKey<FormState>();
+  static final citizenshipKey6 = GlobalKey<FormState>();
+  static final citizenshipKey7 = GlobalKey<FormState>();
+  static final passportNumber1 = GlobalKey<FormState>();
+  static final passportNumber2 = GlobalKey<FormState>();
+  static final passportNumber3 = GlobalKey<FormState>();
+  static final passportNumber4 = GlobalKey<FormState>();
+  static final passportNumber5 = GlobalKey<FormState>();
+  static final passportNumber6 = GlobalKey<FormState>();
+  static final passportNumber7 = GlobalKey<FormState>();
+  static final passportValidityPeriod1 = GlobalKey<FormState>();
+  static final passportValidityPeriod2 = GlobalKey<FormState>();
+  static final passportValidityPeriod3 = GlobalKey<FormState>();
+  static final passportValidityPeriod4 = GlobalKey<FormState>();
+  static final passportValidityPeriod5 = GlobalKey<FormState>();
+  static final passportValidityPeriod6 = GlobalKey<FormState>();
+  static final passportValidityPeriod7 = GlobalKey<FormState>();
+  static final emailFormKey = GlobalKey<FormState>();
+  static final phoneFormKey = GlobalKey<FormState>();
+}
